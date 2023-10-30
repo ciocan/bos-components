@@ -95,6 +95,9 @@
     },
     "ciocan.near/widget/bos-showcase": {
       "code": "return <div>bos showcase here</div>;\n"
+    },
+    "src/widget/bos-showcase": {
+      "code": "return <div>bos showcase here soon...</div>;\n"
     }
   }
 }

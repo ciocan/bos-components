@@ -1,0 +1,7 @@
+{
+  "description": "Get all assets, metadata and pricing from Burrow contracts",
+  "image": {
+    "ipfs_cid": "bafkreifjnvi6yzl3cw4wp3qzygdw3lk7cehxs4zjoyq5ejyeamj3c6fg3y"
+  },
+  "name": "getData | Burrow Cash"
+}
